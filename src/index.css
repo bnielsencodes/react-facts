@@ -20,4 +20,13 @@ body {
   margin: 0;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 635px;
+  max-width: 635px;
+  height: 100vh;
+  margin-inline: auto;
+}
+
 }
