@@ -14,7 +14,7 @@
 
 #### Desktop
 
-![screenshot of Huddle desktop website](src/images/screenshots/dark-desktop.png)
+![screenshot of React Facts desktop website](src/images/screenshots/dark-desktop.png)
 
 #### Mobile
 
@@ -22,8 +22,8 @@
 
 ### Links
 
-- Solution URL: [https://github.com/bnielsencodes/Huddle](https://github.com/bnielsencodes/react-facts)
-- Live Site URL: [https://bnielsen.dev/Huddle](https://bnielsen.dev/react-facts)
+- Solution URL: [https://github.com/bnielsencodes/react-facts](https://github.com/bnielsencodes/react-facts)
+- Live Site URL: [https://bnielsen.dev/react-facts](https://bnielsen.dev/react-facts)
 
 ### Built with
 
