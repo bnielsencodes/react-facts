@@ -18,13 +18,11 @@
 
 #### Desktop
 
-![screenshot of Huddle desktop website](images/screenshots/dark-desktop.png)
+![screenshot of Huddle desktop website](src/images/screenshots/dark-desktop.png)
 
 #### Mobile
 
-<img src="assets/screenshots/dark-mobile.png" alt="screenshot of React Facts mobile website in dark mode" width="300">
-
-<img src="assets/screenshots/light-mobile.png" alt="screenshot of React Facts mobile website in light mode" width="300">
+<img src="src/images/screenshots/dark-mobile.png" alt="screenshot of React Facts mobile website in dark mode" width="300"><img src="src/images/screenshots/light-mobile.png" alt="screenshot of React Facts mobile website in light mode" width="300">
 
 ### Links
 
