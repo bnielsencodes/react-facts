@@ -29,8 +29,6 @@
 - Solution URL: [https://github.com/bnielsencodes/Huddle](https://github.com/bnielsencodes/react-facts)
 - Live Site URL: [https://bnielsen.dev/Huddle](https://bnielsen.dev/react-facts)
 
-## My Process
-
 ### Built with
 
 - React
