@@ -18,7 +18,7 @@
 
 #### Mobile
 
-<img src="src/images/screenshots/dark-mobile.png" alt="screenshot of React Facts mobile website in dark mode" width="300"><img src="src/images/screenshots/light-mobile.png" alt="screenshot of React Facts mobile website in light mode" width="300">
+<img src="src/images/screenshots/dark-mobile.png" alt="screenshot of React Facts mobile website in dark mode" width="300"> <img src="src/images/screenshots/light-mobile.png" alt="screenshot of React Facts mobile website in light mode" width="300">
 
 ### Links
 
